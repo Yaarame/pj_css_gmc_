@@ -1,0 +1,34 @@
+ /* to center my page*/
+ body{margin:auto;
+width: 95%; }
+
+ a{color: black;}
+
+ /* pour aligner lien navigation */
+li{display: inline-block; margin-left: 20px;}
+
+.monimg{width: 60px;}
+/* mettre logo & lien navigation ds un m bloc pr les aligner*/
+.mon_en_tete{display: flex; margin-top: 30px; background: url('grey.png');}
+
+.first_title{text-align: left;}
+
+body{font-family: 'Courier New', Courier, monospace;
+    font-style: normal;}
+iframe{width: 90%; background-color: gray; margin-left: 20px;
+     margin-bottom: 20px;}
+
+/*.sect_principal{  margin: auto
+    ; width: 50%;}
+    .para_dsecript{width: 20%;}*/
+    
+   .form_principal{ margin: auto;width: 50%;
+margin-left: 40%; margin-top: 40px; margin-bottom: 40px;}
+
+   section > h2{ margin-top: 40px; }
+   h3  form {margin-top: 40px;}
+   main{ margin-bottom: 20px;}
+   footer{margin-top: 40px; margin-bottom: 30px; background: url('grey.png');}
+   footer p{text-align: right;}
+   body{background: url('grey.png');}
+   
